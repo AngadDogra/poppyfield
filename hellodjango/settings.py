@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-881kr*5#!b7z^(m-*q9em7h*f6@i_-szq)+1$6=oa&^m%@w0z_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["poppyfield.azurewebsites.net"]
 
 
 # Application definition
